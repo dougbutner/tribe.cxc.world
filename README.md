@@ -6,7 +6,7 @@
 ![Tribe-Empowerment.jpg](https://files.peakd.com/file/peakd-hive/currentxchange/23xehtXXcPLe9tZmQrMRDwvRX4889fqL8N1YkubW9YR45xPWF1RzSZUyYVejznXbZMg71.jpg)
 
 
-## cXc Tribe is a [holotropic](https://en.wiktionary.org/wiki/holotropic), bond-based fractal organization serving creatives through biomimetic content networks. 
+## cXc Tribe is a [holotropic](https://en.wiktionary.org/wiki/holotropic), defined as "returning to center", bond-based fractal organization serving creatives through biomimetic content networks. 
 
 [cXc.world](https://cxc.world) is a tool to help creatives everywhere, currently focusing on Music. As an organization, cXc is also dedicated to personal growth + self expression by all members according to their goals and purpose. As chief, I seek to be a service-leader, guiding each member to embody the highest version of themselves, and to honor our [cXc Temple](https://peakd.com/hive-179421/@currentxchange/tribe-temple-for-cxcworld-cxc-tribe-working-document).
 

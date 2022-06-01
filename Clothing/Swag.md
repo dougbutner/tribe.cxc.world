@@ -16,3 +16,5 @@ Here you'll find links to some of our favorite cXc Products. Browse our [Redbubb
 For [iPhone](https://www.redbubble.com/people/currentxchange/shop?artistUserName=currentxchange&iaCode=u-case-iphone) and [Android](https://www.redbubble.com/people/currentxchange/shop?artistUserName=currentxchange&iaCode=u-case-samsung)
 
 # [Spiral Notebooks](https://www.redbubble.com/people/currentxchange/shop?artistUserName=currentxchange&iaCode=u-notebook-spiral)
+
+# [AoW Bags](## [Bags](https://artofwhere.com/artists/cxc-world-merch/bags))
