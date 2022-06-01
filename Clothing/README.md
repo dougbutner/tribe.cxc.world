@@ -4,9 +4,9 @@ We want to help you rep cXc.world and cXc Tribe everywhere you go.
 
 All cXc Tribe members are eligible to have 100 % of their clothing and other cXc swag rebated in PURPLE at the current swap price.  
 
-# [View cXc Clothing]
+# [View cXc Clothing](Clothing.md)
 
-# [Browse other cXc Swag] 
+# [Browse other cXc Swag](Swag.md) 
 
 # Monthly Clothing Allowance
 Villager - $50 per month

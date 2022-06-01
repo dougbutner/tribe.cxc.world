@@ -1,20 +1,23 @@
-# Walk the Extra Mile, Carry More Bread 🥐
+# Tribe Levels
 
+cXc Tribe offers an on-ramp to let you become a Villager without applying by being active in the community. Once a villager, you'll have the opportunity to forge meaningful bonds with cXc. These bonds come with rewards and responsibilities. All positions are volunteer, and all positions above Villager are paid. 
+
+# Walk the Extra Mile, Carry More Bread 🥐 
 Each month, up to 3 members (or about 1/4 of attendees) who contribute incredible abundance to cXc are rewarded with a higher amount of PURPLE. Tribe will vote on who should receive extra bread. This is also the only way for Villagers to earn PURPLE before becoming a full Tribe Member. There must be some contribution for a monthly payment, and showing up to a Moon Meet counts. *We don't pay silent ghosts, but we do reward musical souls.*
 
 > Additional rewards are up to 3x base pay
 
-**Gathering**
+**Gathering** 
 - Get together with other tribe members and the wider community to discuss music, and making cXc all it can be.
 - Help those looking in to come in and join the party!
 
-**Building**
+**Building** 
 - *You dev?* Help with our [smart contracts](https://github.com/dougbutner/beta-pseudo/tree/main/real-contracts) or contact Douglas directly to see how you can be of service. 
 
 **Speaking** 
 - Constantly share the joy of cXc and our vision in public, with friends, family, strangers, and online. To be rewarded, make a measurable impact with your speech: more music on the map, more tribe members, more discoverability. 
 
-Stacking
+**Stacking** 
 - Wearing cXc’s Clothing Line
 - Get in the Top 100 cxcmusicnft holders
 - Stake LP to Alcor Exchange or wax.defibox.io
@@ -22,9 +25,7 @@ Stacking
 
 
 # Breaking Bonds
-
 cXc is a paid-volunteer community, so you’re free to forge or break bonds according to your will, or let go of your powers and responsibility at any time - though you won’t be allowed to rejoin cXc tribe for 6 months if you break bonds for any reason. 
-
 
 ### Explicit Break
 You can leave any time by calling [TBD] contract. You will immediately be removed from our lists and payments will stop. 

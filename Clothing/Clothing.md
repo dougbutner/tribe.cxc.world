@@ -1,8 +1,6 @@
-# cXc Swag
+# cXc Clothing 
 
-Here you'll find links to some of our favorite cXc Products. Browse our [Redbubble Shop](https://www.redbubble.com/people/CurrentXChange/shop) for the full list.
-
-# From PAOM (Tribe Exclusive)
+# From PAOM ([Tribe](https://lu.ma/cxc) Exclusive)
 
 ## Mystic Hoodies 
 [Mystic Sea Turtle](https://paom.com/products/mystic-sea-turtle-all-tokens?_pos=4&_sid=a3533dc73&_ss=r)  
@@ -13,28 +11,12 @@ Here you'll find links to some of our favorite cXc Products. Browse our [Redbubb
 
 # From Art of Where (Handmade in Canada)
 
-## [Bags](https://artofwhere.com/artists/cxc-world-merch/bags)
-## [Scarves](https://artofwhere.com/artists/cxc-world-merch/scarves)
-## [Headbands](https://artofwhere.com/artists/cxc-world-merch/accessories)
-## [Boxer Briefs](https://artofwhere.com/artists/cxc-world-merch/clothing/boxer-briefs)
-
-## [Kimono Robe](https://artofwhere.com/artists/cxc-world-merch/clothing/kimono-robe)
-## Yoga [Leggings](https://artofwhere.com/artists/cxc-world-merch/clothing/yoga-leggings) and [Capris](https://artofwhere.com/artists/cxc-world-merch/clothing/yoga-capris)
+## [Kimono Robe](https://artofwhere.com/artists/cxc-world-merch/clothing/kimono-robe) 
+## Yoga [Leggings](https://artofwhere.com/artists/cxc-world-merch/clothing/yoga-leggings) and [Capris](https://artofwhere.com/artists/cxc-world-merch/clothing/yoga-capris) 
+## [Scarves](https://artofwhere.com/artists/cxc-world-merch/scarves) 
+## [Headbands](https://artofwhere.com/artists/cxc-world-merch/accessories) 
+## [Boxer Briefs](https://artofwhere.com/artists/cxc-world-merch/clothing/boxer-briefs) 
 ## [Fitted Tank Top](https://artofwhere.com/artists/cxc-world-merch/clothing/fitted-tank-top)
-## []()
-## []()
-## []()
-## []()
-## []()
-## []()
-## []()
-## []()
-## []()
-## []()
-## []()
-
-
-
 
 
 # From Redbubble 

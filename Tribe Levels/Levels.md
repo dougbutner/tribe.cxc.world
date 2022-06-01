@@ -79,7 +79,7 @@ ___
 
 ___
 
-# 🦉 Chief (Salaried, additional chiefs ) 
+# 🦉 Chief (Salaried) 
 ![Chief-of-cXc-Douglas-Pyramid-Druid[Full][Mystic].jpg](https://files.peakd.com/file/peakd-hive/currentxchange/23zRrrT1bC6KZSDUn47GNSLNuZpchdTqUCrfHXsZ1Q8s9BNC2AR8yyZCPiZFD4mHn7D2C.jpg)
 
 [cXc's Founder Douglas James Butner](https://douglas.life) is the Chief of cXc tribe. As we expand, we will select up to 1 additional chief per year or per 12 Tribe Leaders. **All Chiefs will be chosen from Tribe Leaders who want to be a Chief.**
