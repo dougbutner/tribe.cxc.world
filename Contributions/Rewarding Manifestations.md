@@ -1,21 +1,21 @@
-# Rewarding Contributions
+# Rewarding Manifestations
 
 You deserve to be rewarded for valuable contributions to cXc. 
 
-Each month, we'll get together to decide who has done the most, and reward them with up to 3x bonus PURPLE (256 PURPLE total for top contributor)
+Each month, we'll get together to decide who has done the most, and reward them with up to 3x bonus PURPLE (256 PURPLE total for top Conjurer)
 
 # The "Why"
-cXc Tribe is about doing what you want, with a [core focus]() of cultivating creative culture. To make it collaborative, each member should have an idea of what others members are working on, and know what that contributor needs to further this chosen path.
+cXc Tribe is about doing what you want, with a [core focus]() of cultivating creative culture. To make it collaborative, each member should have an idea of what others members are working on, and know what that Conjurer needs to further this chosen path.
 
 For those truly passionate about helping musicians through cXc + beyond, this is an opportunity to contribute your value, and be recognized and rewarded for providing this value. 
 
 # How it Works
 
-Manifestation Moon Meets are open for registered Villagers + higher. 
+Manifestation Moon Meets are open for all registered tribe. 
 
 Each person seeking reward must publish a short post of contributions to Hive (Other text-based platforms like Medium are acceptable) a article and then comment the link (TBD where).
 
-All who attend the Manifestation Moon Meet will be asked to vote for up to 3 contributors who deserve extra rewards (not ranked, just 1-3 people you think deserve more). Votes will be tallied, and runoffs will be held in-meeting if needed. 
+All who attend the Manifestation Moon Meet will be asked to vote for up to 3 Conjurers who deserve extra rewards (not ranked, just 1-3 people you think deserve more). Votes will be tallied, and runoffs will be held in-meeting if needed. 
 
 > Do I need to show up at the Manifestation Meeting?  
 
@@ -33,7 +33,7 @@ Attendance isn't required to receive votes, just the post using the template. If
 
 ## Mystery Raffle Rewards
 
-Each month, a random contributor will win a prize of BLUX, NFTs, or physical cXc Swag. This "Mystery" prize will be announced at each meeting
+Each month, a random Conjurer will win a prize of BLUX, NFTs, or physical cXc Swag. This "Mystery" prize will be announced at each meeting
 
 Royalties from merch sales will go into a fund used to purchase physical swag. Whenever the monthly royalty revenue of the previous month exceeds 20 USD, we will have physical rewards. In the event a month doesn't reach this level, BLUX or NFTs will be the prize. 
 
@@ -43,13 +43,13 @@ Royalties from merch sales will go into a fund used to purchase physical swag. W
 
 
 
-# Contributor Template 
+# Conjurers Template 
 
-Use this [template](Contributor%20Template.md) to organize your contributions to show off to Tribe. 
+Use this [template](Conjurer%20Template.md) to organize your contributions to show off to Tribe. 
 
 But first, familiarize yourself with how sections work.
 
-## Contributor Sections
+## Conjurers Sections
 
 ### Monthly Manifestations 
 These are contributions that were delivered in the month, and are the primary thing we are rewarding (see weights explanation at bottom)
@@ -76,4 +76,4 @@ Weight = 0 (ϕ-ϕ)
 
 **Weights** suggest how voters should value one type of contribution compared to another to ensure fresh contributions are always the top-rewarded activities. 
 
-> Contributor rewards were inspired by Fractally
+> Conjurer rewards were inspired by Fractally
