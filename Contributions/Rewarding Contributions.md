@@ -35,10 +35,6 @@ Royalties from merch sales will go into a fund used to purchase the swag. Whenev
 > Royalties on Merch are usually around 20% of the sale
 
 # See all the [cXc Swag](../Clothing/clothing.md)
-
-
-
-
 In addition to the monthly bread tribe members earn, 
 
 > Contributor rewards were inspired by Fractally
@@ -73,9 +69,3 @@ Weight = 14.6% (ϕ⁴)
 These are contributions that you are planning but have not delivered. These aren't heavily rewarded, but we encourage you to share a bit on what you are working on, you may find help! 
 
 Weight = 0
-
-
-# Weighting contributions 
-
-61.8 - Monthly manifestations 
-38.2 - 
